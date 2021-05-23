@@ -2,4 +2,13 @@
 #EXTINF:-1 tvg-id="tvbnews.hk" tvg-name="無綫新聞台 TVB news" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="General",無綫新聞台 TVB news
 https://quadstream.tv/stream/a3x50be/1
 
-https://raw.githubusercontent.com/iptv-org/iptv/master/channels/hk.m3u
+#EXTINF:-1 tvg-id="FeiCuiTai81.hk" tvg-name="翡翠台（81）" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="",翡翠台（81）
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+#EXTINF:-1 tvg-id="GangTaiDianShi31.hk" tvg-name="港台電視31" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/1200px-RTHK_TV_31.svg.png" group-title="General",港台電視31 (720p)
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:-1 tvg-id="GangTaiDianShi32.hk" tvg-name="港台電視32" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png" group-title="News",港台電視32 (480p)
+https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
+#EXTINF:-1 tvg-id="ViuTV.hk" tvg-name="ViuTV" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://aaaa.com.hk/main/wp-content/uploads/2020/02/ViuTV-logo.png" group-title="",ViuTV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1 tvg-id="A1Tai.hk" tvg-name="A1台" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/8/80/ATV_A1_logo.jpg/300px-ATV_A1_logo.jpg" group-title="General",A1台 (720p)
+https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
