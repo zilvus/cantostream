@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="tvbnews.hk" tvg-name="無綫新聞台" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="General",無綫新聞台 (720p)
+#EXTINF:-1 tvg-id="tvbnews.hk" tvg-name="無綫新聞台 TVB news" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="General",無綫新聞台 TVB news
 https://quadstream.tv/stream/a3x50be/1
+
+https://raw.githubusercontent.com/iptv-org/iptv/master/channels/hk.m3u
