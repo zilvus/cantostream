@@ -2,6 +2,10 @@
 #EXTINF:-1 tvg-id="tvbnews.hk" tvg-name="無綫新聞台 TVB news" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="General",無綫新聞台 TVB news
 https://quadstream.tv/stream/a3x50be/1
 
+#EXTINF:-1 tvg-id="tvbnews.hk" tvg-name="無綫財經 · 資訊台 TVB Finance" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="General",無綫新聞台 TVB news
+https://quadstream.tv/stream/a3x50be/2
+
+
 
 
 #EXTINF:-1 tvg-id="ABCNewsAustralia.au" tvg-name="ABC News Australia" tvg-country="AU" tvg-language="" tvg-logo="" group-title="",ABC News Australia
