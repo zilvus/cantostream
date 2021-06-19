@@ -6,6 +6,10 @@ https://quadstream.tv/stream/a3x50be/1
 https://quadstream.tv/stream/a3x50be/2
 
 
+#EXT-X-VERSION:3
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-TARGETDURATION:10
+
 
 
 #EXTINF:-1 tvg-id="ABCNewsAustralia.au" tvg-name="ABC News Australia" tvg-country="AU" tvg-language="" tvg-logo="" group-title="",ABC News Australia
