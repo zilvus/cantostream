@@ -2,16 +2,8 @@
 #EXTINF:-1 tvg-id="tvbnews.hk" tvg-name="無綫新聞台 TVB news" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="General",無綫新聞台 TVB news
 https://quadstream.tv/stream/a3x50be/1
 
-#EXTINF:-1 tvg-id="tvbne3.hk" tvg-name="無綫財經 · 資訊台 TVB Finance" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="General",無綫新聞台 TVB news
+#EXTINF:-1 tvg-id="tvbne3.hk" tvg-name="資訊台 TVB Finance" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="General",無綫新聞台 TVB news
 https://quadstream.tv/stream/a3x50be/2
-
-#EXTINF:-1 tvg-id="hktv2" tvg-name="香港開電視 · 資訊台 TVB Finance" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="General",無綫新聞台 TVB news
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡翠台
@@ -20,12 +12,10 @@ https://cdn.hkdtmb.com/hls/81/index.m3u8
 https://cdn.hkdtmb.com/hls/81b/index.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="[TVB] 電視廣播",J2台
 https://cdn.hkdtmb.com/hls/82/index.m3u8
-#EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://www.hkdtmb.com/png_logo/83.png" group-title="[TVB] 電視廣播",無綫新聞台
-https://cdn.hkdtmb.com/hls/83/index.m3u8
+
 #EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://www.hkdtmb.com/png_logo/84.png" group-title="[TVB] 電視廣播",明珠台
 https://cdn.hkdtmb.com/hls/84/index.m3u8
-#EXTINF:-1 tvg-id="84" tvg-name="明珠台 (粵語聲道)" tvg-logo="https://www.hkdtmb.com/png_logo/84b.png" group-title="[TVB] 電視廣播",明珠台 (粵語聲道)
-https://cdn.hkdtmb.com/hls/84b/index.m3u8
+
 #EXTINF:-1 tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://www.hkdtmb.com/png_logo/85.png" group-title="[TVB] 電視廣播",無綫財經·資訊台
 https://cdn.hkdtmb.com/hls/85/index.m3u8
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://www.hkdtmb.com/png_logo/99.png" group-title="[Viu] 香港電視娛樂",ViuTV
@@ -50,12 +40,10 @@ https://cdn.hkdtmb.com/hls/76/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ABCNewsAustralia.au" tvg-name="ABC News Australia" tvg-country="AU" tvg-language="" tvg-logo="" group-title="",ABC News Australia
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_43.m3u8
+
 #EXTINF:-1 tvg-id="Nine.au" tvg-name="Nine" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101204200421.png" group-title="",Nine [Geo-blocked]
 https://i.mjh.nz/au/Sydney/tv.101204200421.m3u8
-#EXTINF:-1 tvg-id="ABCTVPlusABCKids.au" tvg-name="ABC TV Plus / ABC Kids" tvg-country="AU" tvg-language="English" tvg-logo="https://static.epg.best/au/ABCcomedyABCkids.au.png" group-title="",ABC TV Plus / ABC Kids (720p)
-https://c.mjh.nz/101002210222/
+
 
 #EXTINF:-1 tvg-id="9Gem.au" tvg-name="9Gem" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101204200427.png" group-title="",9Gem [Geo-blocked]
 https://i.mjh.nz/au/Sydney/tv.101204200427.m3u8
