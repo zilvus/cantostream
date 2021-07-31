@@ -11,7 +11,7 @@ https://quadstream.tv/stream/a3x50be/2
 
 
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://www.hkdtmb.com/png_logo/81.png" group-title="[TVB] 電視廣播",翡翠台
-https://cdn.hkdtmb.com/hls/81/index.m3u8
+http://192.168.128.143:8000/index.m3u8
 #EXTINF:-1 tvg-id="81" tvg-name="翡翠台 (簡體中文字幕)" tvg-logo="https://www.hkdtmb.com/png_logo/81b.png" group-title="[TVB] 電視廣播",翡翠台 (簡體中文字幕)
 https://cdn.hkdtmb.com/hls/81b/index.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://www.hkdtmb.com/png_logo/82.png" group-title="[TVB] 電視廣播",J2台
