@@ -31,11 +31,14 @@ https://www.navchina.cf/IPTV/icable.php?id=38
 #EXTINF:-1 tvg-id="61" tvg-name="now直播台" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="[RTHK] now直播台",now直播台
 https://www.navchina.cf/IPTV/now.php?id=331
 
-#EXTINF:-1 tvg-id="61" tvg-name="Al-Jazeera" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="[RTHK] Al-Jazeera",Al-Jazeera
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="Nine.au" tvg-name="Seven" tvg-country="AU" tvg-language="English" tvg-logo="" group-title="",Seven
+https://npc.cdn.7livecloud.io/hls/live/SYD1/master.m3u8
 
 #EXTINF:-1 tvg-id="Nine.au" tvg-name="Nine" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101204200421.png" group-title="",Nine
 https://i.mjh.nz/au/Sydney/tv.101204200421.m3u8
 
 #EXTINF:-1 tvg-id="10.au" tvg-name="10" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101406020625.png" group-title="",10 (576p)
 https://i.mjh.nz/au/Sydney/tv.101406020625.m3u8
+
+#EXTINF:-1 tvg-id="61" tvg-name="Al-Jazeera" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="[RTHK] Al-Jazeera",Al-Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
