@@ -4,6 +4,12 @@
 #EXT-X-TARGETDURATION:10
 
 #EXTINF:-1 tvg-id="tvbnews.hk" tvg-name="無綫新聞台 TVB news" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="General",無綫新聞台 TVB news
+http://www.chahaoquan.com/wz/epg/tvb.php?id=1
+
+#EXTINF:-1 tvg-id="tvbnews.hk" tvg-name="無綫新聞台 TVB news" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="General",無綫新聞台 TVB news
+http://www.chahaoquan.com/wz/epg/tvb.php?id=2
+
+#EXTINF:-1 tvg-id="tvbnews.hk" tvg-name="無綫新聞台 TVB news" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="General",無綫新聞台 TVB news
 https://quadstream.tv/stream/a3x50be/1
 
 #EXTINF:-1 tvg-id="tvbne3.hk" tvg-name="資訊台 TVB Finance" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="General",資訊台 TVB Finance
@@ -11,3 +17,17 @@ https://quadstream.tv/stream/a3x50be/2
 
 #EXTINF:-1 tvg-id="33" tvg-name="港台電視33" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="[RTHK] 香港電台",港台電視33
 https://www.navchina.cf/IPTV/icable.php?id=77
+
+#EXTINF:-1 tvg-id="61" tvg-name="有線奧運601台" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="[RTHK] 有線奧運601台",有線奧運601台
+https://www.navchina.cf/IPTV/icable.php?id=61
+
+#EXTINF:-1 tvg-id="61" tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="[RTHK] 港台電視31",港台電視31
+http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_5400_av-p.m3u8
+
+
+#EXTINF:-1 tvg-id="61" tvg-name="有线财经资讯台" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="[RTHK] 有线财经资讯台",有线财经资讯台
+https://www.navchina.cf/IPTV/icable.php?id=38
+
+#EXTINF:-1 tvg-id="61" tvg-name="now直播台" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="[RTHK] now直播台",now直播台
+https://www.navchina.cf/IPTV/now.php?id=331
+
