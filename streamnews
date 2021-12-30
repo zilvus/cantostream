@@ -6,39 +6,33 @@
 #EXTINF:-1 tvg-id="tvbnews.hk" tvg-name="無綫新聞台 TVB news" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="General",無綫新聞台 TVB news
 http://www.chahaoquan.com/wz/epg/tvb.php?id=1
 
-#EXTINF:-1 tvg-id="tvbnews.hk" tvg-name="無綫新聞台 TVB news" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="General",無綫新聞台 TVB news
+#EXTINF:-1 tvg-id="tvbnews.hk" tvg-name="資訊台 TVB Finance" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://res.fltaradio.com/upload/2018/12/TVB-News-Channel.jpg" group-title="General",資訊台 TVB Finance
 http://www.chahaoquan.com/wz/epg/tvb.php?id=2
 
 #EXTINF:-1 tvg-id="tvbnews.hk" tvg-name="無綫新聞台 TVB news" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="General",無綫新聞台 TVB news
 https://quadstream.tv/stream/a3x50be/1
 
-#EXTINF:-1 tvg-id="tvbne3.hk" tvg-name="資訊台 TVB Finance" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="General",資訊台 TVB Finance
+#EXTINF:-1 tvg-id="tvbne3.hk" tvg-name="資訊台 TVB Finance" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://res.fltaradio.com/upload/2018/12/TVB-News-Channel.jpg" group-title="General",資訊台 TVB Finance
 https://quadstream.tv/stream/a3x50be/2
 
-#EXTINF:-1 tvg-id="33" tvg-name="港台電視33" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="[RTHK] 香港電台",港台電視33
-https://www.navchina.cf/IPTV/icable.php?id=77
-
-#EXTINF:-1 tvg-id="61" tvg-name="有線奧運601台" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="[RTHK] 有線奧運601台",有線奧運601台
-https://www.navchina.cf/IPTV/icable.php?id=61
-
-#EXTINF:-1 tvg-id="61" tvg-name="港台電視31" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="[RTHK] 港台電視31",港台電視31
-http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_5400_av-p.m3u8
+#EXTINF:-1,1.1.3香港奇妙电视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 
-#EXTINF:-1 tvg-id="61" tvg-name="有线财经资讯台" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="[RTHK] 有线财经资讯台",有线财经资讯台
-https://www.navchina.cf/IPTV/icable.php?id=38
 
-#EXTINF:-1 tvg-id="61" tvg-name="now直播台" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="[RTHK] now直播台",now直播台
-https://www.navchina.cf/IPTV/now.php?id=331
 
-#EXTINF:-1 tvg-id="Nine.au" tvg-name="Seven" tvg-country="AU" tvg-language="English" tvg-logo="" group-title="",Seven
-https://npc.cdn.7livecloud.io/hls/live/SYD1/master.m3u8
 
-#EXTINF:-1 tvg-id="Nine.au" tvg-name="Nine" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101204200421.png" group-title="",Nine
-https://i.mjh.nz/au/Sydney/tv.101204200421.m3u8
+#EXTINF:-1 tvg-name="ABC News Australia" tvg-id="abcnews.com.au" tvg-logo="https://i.imgur.com/rdkvOCh.png" group-title="AUSTRALIA",ABC News Australia
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
-#EXTINF:-1 tvg-id="10.au" tvg-name="10" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101406020625.png" group-title="",10 (576p)
-https://i.mjh.nz/au/Sydney/tv.101406020625.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://127.0.0.1/" group-title="HongKongTaiwan",翡翠台
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://127.0.0.1/" group-title="HongKongTaiwan",明珠台
+http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
+
+#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://127.0.0.1/" group-title="HongKongTaiwan",香港卫视文旅
+https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 
 #EXTINF:-1 tvg-id="61" tvg-name="Al-Jazeera" tvg-logo="https://www.hkdtmb.com/png_logo/31.png" group-title="[RTHK] Al-Jazeera",Al-Jazeera
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
