@@ -15,15 +15,11 @@ https://quadstream.tv/stream/a3x50be/1
 #EXTINF:-1 tvg-id="tvbne3.hk" tvg-name="資訊台 TVB Finance" tvg-country="HK" tvg-language="Chinese;Yue Chinese" tvg-logo="http://res.fltaradio.com/upload/2018/12/TVB-News-Channel.jpg" group-title="General",資訊台 TVB Finance
 https://quadstream.tv/stream/a3x50be/2
 
-#EXTINF:-1,1.1.3香港奇妙电视
+#EXTINF:-香港奇妙电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
-
-
-
-
-#EXTINF:-1 tvg-name="ABC News Australia" tvg-id="abcnews.com.au" tvg-logo="https://i.imgur.com/rdkvOCh.png" group-title="AUSTRALIA",ABC News Australia
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-Bloomberg
+https://d1xy5gfz8tdshw.cloudfront.net/oz1/Channel-OZTVqvs-AWS-tokyo-2/Source-OZTVqvs-10000-1-sxrye5-BP-HD-5-Q0vPYCYpU9Cw/6311782.ts
 
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://127.0.0.1/" group-title="HongKongTaiwan",翡翠台
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
