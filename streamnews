@@ -18,9 +18,6 @@ https://quadstream.tv/stream/a3x50be/2
 #EXTINF:-香港奇妙电视
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
-#EXTINF:-Bloomberg
-https://d1xy5gfz8tdshw.cloudfront.net/oz1/Channel-OZTVqvs-AWS-tokyo-2/Source-OZTVqvs-10000-1-sxrye5-BP-HD-5-Q0vPYCYpU9Cw/6311782.ts
-
 #EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://127.0.0.1/" group-title="HongKongTaiwan",翡翠台
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=1&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 
