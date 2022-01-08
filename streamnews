@@ -34,3 +34,11 @@ https://quadstream.tv/stream/a3x50be/1
 #EXTINF:-1 tvg-logo="http://res.fltaradio.com/upload/2018/12/TVB-News-Channel.jpg", 資訊台 TVB Finance
 https://quadstream.tv/stream/a3x50be/2
 
+#EXTINF:-1,Bloomberg TV Asia
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+
+#EXTINF:-1,Bloomberg TV Europe
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+
+#EXTINF:-1,Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
