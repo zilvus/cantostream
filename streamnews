@@ -3,42 +3,18 @@
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-TARGETDURATION:10
 
-#EXTINF:-1 tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg" group-title="General",無綫新聞台 TVB news
-http://www.chahaoquan.com/wz/epg/tvb.php?id=1
-
-#EXTINF:-1 tvg-logo="http://res.fltaradio.com/upload/2018/12/TVB-News-Channel.jpg" group-title="General",資訊台 TVB Finance
-http://www.chahaoquan.com/wz/epg/tvb.php?id=2
-
-#EXTINF:-1,TVB翡翠台
-https://cdn.hkdtmb.com/hls/81/index.m3u8
-#EXTINF:-1,TVB J2
-https://cdn.hkdtmb.com/hls/82/index.m3u8
-#EXTINF:-1,TVB 新闻
-https://cdn.hkdtmb.com/hls/83/index.m3u8
-#EXTINF:-1,明珠台
-https://cdn.hkdtmb.com/hls/84/index.m3u8
-
-#EXTINF:-香港奇妙电视
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-
-#EXTINF:-1,ViuTV
-https://cdn.hkdtmb.com/hls/99/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.hkdtmb.com/png_logo/31.png", Al-Jazeera
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-
-
 #EXTINF:-1 tvg-logo="http://img.tvb.com/corporate/_fck_/image/Jade_logo_L(1).jpg", 無綫新聞台 TVB news
 https://quadstream.tv/stream/a3x50be/1
 
 #EXTINF:-1 tvg-logo="http://res.fltaradio.com/upload/2018/12/TVB-News-Channel.jpg", 資訊台 TVB Finance
 https://quadstream.tv/stream/a3x50be/2
 
-#EXTINF:-1,Bloomberg TV Asia
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:-香港奇妙电视
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
-#EXTINF:-1,Bloomberg TV Europe
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.hkdtmb.com/png_logo/31.png", Al-Jazeera
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #EXTINF:-1,Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
